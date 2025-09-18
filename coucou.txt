@@ -1,2 +1,4 @@
 Coucou c'est moi !
 Non c'est pas toi...
+Si c'est bien toi.
+import numpy
